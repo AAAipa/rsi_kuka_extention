@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Al Assadi"
+  given-names: "Anwar"
+  orcid: "https://orcid.org/0000-0003-2332-6970"
+- family-names: "Wang"
+  given-names: "Yandong"
+title: "rsi_kuka_extention"
+version: 1.01
+date-released: 2022-12-18
+url: "https://github.com/AAAipa/rsi_kuka_extention"
