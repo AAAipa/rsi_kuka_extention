@@ -47,7 +47,7 @@ r,0.0000,0.1000,0.0000,0.0000,0.0000,0.0000,r,0.0000,0.1000,0.0000,0.0000,0.0000
 
 ## Arthur and acknowlegments
 
-RSI Communicator inspired by Eren Sezener (erensezener@gmail.com). [Github project here](https://github.com/erensezener/kuka-rsi3-communicator).
+RSI Communicator created by Eren Sezener (erensezener@gmail.com). [Github project here](https://github.com/erensezener/kuka-rsi3-communicator).
 
 
 # rsi_kuka_extention
