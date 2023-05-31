@@ -40,14 +40,14 @@ r,0.0000,0.1000,0.0000,0.0000,0.0000,0.0000,r,0.0000,0.1000,0.0000,0.0000,0.0000
 - Torque: Torque of Joint A1-A6
 - MOT_Temp: Motor Temperature of Joint A1-A6 (Celcius)
 
-- force & torque: Force and Torque from ATI Sensor
+- force & torque: Force and Torque from Sensor
 
 
 
 
 ## Arthur and acknowlegments
 
-RSI Communicator created by Eren Sezener (erensezener@gmail.com). [Github project here](https://github.com/erensezener/kuka-rsi3-communicator).
+RSI Communicator Aurthur: Eren Sezener (erensezener@gmail.com). [Github project here](https://github.com/erensezener/kuka-rsi3-communicator).
 
 
-# rsi_kuka_extention
+
