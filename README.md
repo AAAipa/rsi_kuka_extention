@@ -45,9 +45,10 @@ r,0.0000,0.1000,0.0000,0.0000,0.0000,0.0000,r,0.0000,0.1000,0.0000,0.0000,0.0000
 
 
 
-## Arthur and acknowlegments
+## Author and acknowlegments
 
-RSI Communicator Aurthur: Eren Sezener (erensezener@gmail.com). [Github project here](https://github.com/erensezener/kuka-rsi3-communicator).
+RSI Communicator Author: Eren Sezener (erensezener@gmail.com). [Github project here](https://github.com/erensezener/kuka-rsi3-communicator).
+RSI Communicator Authors (extented version): Anwar Al Assadi, Yandong Wang, Fraunhofer IPA
 
 
 
